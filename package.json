@@ -1,0 +1,28 @@
+{
+  "name": "thetravelerweb",
+  "version": "1.0.0",
+  "description": "The Traveler Shooting Game on the Web!",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notestudios/TheTravelerWeb.git"
+  },
+  "keywords": [
+    "Game",
+    "2D",
+    "Web",
+    "2D-Shooter"
+  ],
+  "author": "retrozinndev",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/notestudios/TheTravelerWeb/issues"
+  },
+  "homepage": "https://github.com/notestudios/TheTravelerWeb#readme",
+  "dependencies": {
+    "typescript": "^5.5.3"
+  }
+}
